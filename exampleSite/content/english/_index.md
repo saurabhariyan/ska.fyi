@@ -1,10 +1,14 @@
 ---
 title: "Saurabh Kumar Ariyan"
 image: "images/developer.png"
-designation: "Engineering Head"
-description: "Meta description"
+designation: "Head of Engineering"
+# description: "Meta description"
 ---
 
-Running the distributed engineering team for SaaS security product. Based in BLR 🇮🇳 Been First Developer 💪💪
-
-Golang, Python (Django, Celery), Javascript (Nodejs, React), Postgres, Mongo, Redis, Team Leadership, Hiring, Tech Culture. 
+- ##### Running distributed engineering team for SaaS security startup
+- ##### Based in BLR 🇮🇳 
+- ##### Been First Developer 💪💪
+- ##### Talk to me about: 
+    - ###### Tech : Go, Python (Django, Celery), Javascript (Nodejs, React)
+    - ###### Database: Postgres, Mongo, Redis
+    - ###### Tech Leadership, Hiring, Startups  

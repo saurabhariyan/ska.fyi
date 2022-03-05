@@ -6,6 +6,6 @@ url = "contact/"
 weight = 1
 
 [[main]]
-name = "Elements"
-url = "elements/"
+name = "Resume"
+url = "resume/"
 weight = 2

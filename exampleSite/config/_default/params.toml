@@ -1,6 +1,6 @@
 #################### default parameters ################################
 # favicon
-favicon = "images/developer.png"
+favicon = "images/favicon.png"
 # preloader
 preloader = false
 # search
@@ -44,7 +44,7 @@ enableQQ = false # https://valine.js.org/en/configuration.html#enableQQ
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Hydrogen", "Hugo", "Themefisher", "GetHugoThemes", "Statichunt"]
+keywords = []
 description = "This is meta description"
 author = "Statichunt"
 image = "images/developer.png"                                                # this image will be used as fallback if a page has no image of its own
@@ -86,26 +86,11 @@ button = "I Accept"
 
 ############################# social site ########################
 [[social]]
-title = "facebook"
-icon = "fab fa-facebook"      # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://facebook.com"
-
-[[social]]
-title = "twitter"
-icon = "fab fa-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
-
-[[social]]
-title = "instagram"
-icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
-
-[[social]]
 title = "github"
 icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://www.github.com/saurabhariyan/"
 
 [[social]]
 title = "linkedin"
 icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://www.linkedin.com/in/saurabhariyan/"
