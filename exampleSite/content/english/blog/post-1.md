@@ -4,7 +4,7 @@ title: "Life Gyan"
 date: 2021-01-05T18:19:25+06:00
 categories: ["personal"]
 image: "images/gallery/01.jpg"
-draft: false
+draft: true
 ---
 
 This is a collection of internet _gyans_  (phrases/wisdoms/truism) that resonate with me! 
