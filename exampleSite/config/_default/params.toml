@@ -14,8 +14,8 @@ image_gallery = true
 # contact form action
 contact_form_action = "#" # contact form works with https://airform.io
 # copyright
-theme_copyright = true
-copyright = "Copyright by your_company"
+theme_copyright = false
+copyright = ""
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
